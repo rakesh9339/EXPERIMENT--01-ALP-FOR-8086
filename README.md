@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name : NITEESH M
+Name : Rakesh J.S
 
-Roll no : 212222230098
+Roll no : 212222230115
 
 Date of experiment :08.03.2024
 
