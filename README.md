@@ -1,7 +1,7 @@
 
-##Name : Rakesh J.S
+####Name : Rakesh J.S
 
-##Roll no : 212222230115
+####Roll no : 212222230115
 # EXPERIMENT--01-ALP-FOR-8086
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
