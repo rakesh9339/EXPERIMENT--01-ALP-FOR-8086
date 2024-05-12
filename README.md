@@ -1,13 +1,8 @@
+
+##Name : Rakesh J.S
+
+##Roll no : 212222230115
 # EXPERIMENT--01-ALP-FOR-8086
-Name : Rakesh J.S
-
-Roll no : 212222230115
-
-Date of experiment :08.03.2024
-
-
-
-
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required: 8086  emulator 
